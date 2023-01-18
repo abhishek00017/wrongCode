@@ -1,3 +1,2 @@
 this is hallo class initialization
-hallo class reinitialization
 
